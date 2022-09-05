@@ -1,0 +1,2 @@
+# reyting
+talabalar reytingi
